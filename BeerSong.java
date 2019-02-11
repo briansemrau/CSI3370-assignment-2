@@ -2,7 +2,7 @@
 public class BeerSong {
 	
 	public static void main(String[] args) {
-		// To do
+		ninetyNineBottlesOfBeer();
 	}
 	
 	private static void ninetyNineBottlesOfBeer() {

@@ -1,0 +1,1 @@
+This repository is for demonstrating an understanding and ability to use GIT. It contains a program that outputs the bottles-of-beer song.
